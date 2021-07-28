@@ -25,4 +25,4 @@ const pmi2=Manager.getReference();
 
 console.log(pmi==pmi2)
 
-Hi sai priya
+Hi sai priya .....
